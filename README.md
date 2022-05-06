@@ -19,9 +19,15 @@ And has these types :-
 Stack is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle.
 Queue is a container of objects (a linear collection) that are inserted and removed according to the first-in first-out (FIFO) principle.
 
+![alt text](https://github.com/yoisef/DataStrucureAndAlgorithms/blob/main/src/geek-stack-1.png?raw=true)
+
+![alt text](https://github.com/yoisef/DataStrucureAndAlgorithms/blob/main/src/geek-queue-1.png?raw=true)
+
 # Binary Search 
 
 is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n). 
+
+![alt text](https://github.com/yoisef/DataStrucureAndAlgorithms/blob/main/src/BinarySearch.png?raw=true)
 
 # Binary Search Tree 
 
@@ -31,5 +37,5 @@ The left subtree of a node contains only nodes with keys lesser than the node’
 The right subtree of a node contains only nodes with keys greater than the node’s key.
 The left and right subtree each must also be a binary search tree.
 
-
+![alt text]
 
