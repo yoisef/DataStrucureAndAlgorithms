@@ -11,6 +11,8 @@ And has these types :-
  -Single
  -Doubly
  -Circlue
+ ![alt text](https://github.com/yoisef/DataStrucureAndAlgorithms/blob/main/src/Linkedlist.png?raw=true)
+
 ---------------------------------------
 # Stack And Queues 
 
